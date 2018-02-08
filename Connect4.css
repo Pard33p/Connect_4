@@ -1,0 +1,11 @@
+.board button{
+  width:70px;
+  height:70px;
+  background-color:white;
+  margin:1px;
+  border-left:4px solid #dcdcdc;
+  border-top:4px solid #dcdcdc;
+  border-right:4px solid darkgrey;
+  border-bottom:4px solid darkgrey;
+  border-radius: 50%;
+}
